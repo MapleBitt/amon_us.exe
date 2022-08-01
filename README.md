@@ -10,7 +10,7 @@ $ md build
 
 ## Install Py2exe
 ```console
-$pip install py2exe
+$ pip install py2exe
 ```
 
 ## execution
